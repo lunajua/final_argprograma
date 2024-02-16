@@ -1,0 +1,4 @@
+21/10/2023,nacho luna,fisica,mario beron,2,b,9
+21/10/2023,facundo luna,fisica,mario beron,2,b,9
+24/10/2023,manuel salgueiro,fisica,mario beron,2,b,10
+24/10/2023,erica briglia,fisica,mario beron,2,b,10

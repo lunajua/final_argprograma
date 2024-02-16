@@ -1,0 +1,7 @@
+mario beron,fisica,2,b
+graciela borges,historia,5,c
+eduardo vallejos,matemática,6,a
+marita pardo,ingles,3,c
+mario beron,quimica,3,c
+analia zaldua,informática,6,d
+matias salgado,análisis,9,a
